@@ -1,0 +1,6 @@
+site_name: Hyperdark
+
+theme:
+  name: material
+
+site_dir: ../hyperdark
