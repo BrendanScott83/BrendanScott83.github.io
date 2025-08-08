@@ -10,4 +10,3 @@ Choose one type of weapon. You gain a bonus to attack rolls and damage with this
 Choose Strength or Dexterity. You have advantage on checks of that type to overcome an opposing force, such as kicking open a stuck door (Strength) or slipping free of restraints (Dexterity).
 ### Hauler
 Add your Constitution modifier, if positive, to your gear slots.
-

@@ -2,5 +2,9 @@ site_name: Hyperdark
 
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: blue grey
+    accent: blue
 
 site_dir: ../hyperdark
